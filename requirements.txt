@@ -6,3 +6,7 @@ langchain-openai>=0.1.0
 langchain-anthropic>=0.1.0
 langgraph>=0.0.40
 python-dotenv
+
+langchain-text-splitters
+sentence-transformers
+chromadb
