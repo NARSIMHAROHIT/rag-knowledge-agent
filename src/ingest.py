@@ -32,7 +32,7 @@ def ingest():
         persist_directory=VECTOR_DB_DIR
     )
 
-    print("✅ Ingestion complete")
+    print("Ingestion complete")
 
 if __name__ == "__main__":
     ingest()
